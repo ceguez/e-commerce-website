@@ -4,11 +4,11 @@ import 'firebase/auth';
 
 const config = {
   apiKey: "AIzaSyA6BYVVo4zwAjb5KRdTqQADhjEOM1vejkg",
-    authDomain: "canhledesign-db.firebaseapp.com",
-    projectId: "canhledesign-db",
-    storageBucket: "canhledesign-db.appspot.com",
-    messagingSenderId: "522945891929",
-    appId: "1:522945891929:web:6fd418bfe01c209c17eb48"
+  authDomain: "canhledesign-db.firebaseapp.com",
+  projectId: "canhledesign-db",
+  storageBucket: "canhledesign-db.appspot.com",
+  messagingSenderId: "522945891929",
+  appId: "1:522945891929:web:6fd418bfe01c209c17eb48"
 };
 
 firebase.initializeApp(config);
