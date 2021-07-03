@@ -8,19 +8,7 @@ const HomePage = () => (
     <div className='directory-menu'>
       <div className='menu-item'>
         <div className='content'>
-          <div className='title'>HATS</div>
-          <span className='subtitle'>SHOP NOW</span>
-        </div>
-      </div>
-      <div className='menu-item'>
-        <div className='content'>
-          <div className='title'>JACKETS</div>
-          <span className='subtitle'>SHOP NOW</span>
-        </div>
-      </div>
-      <div className='menu-item'>
-        <div className='content'>
-          <div className='title'>SHOES</div>
+          <div className='title'>ELECTRONICS</div>
           <span className='subtitle'>SHOP NOW</span>
         </div>
       </div>
@@ -33,6 +21,18 @@ const HomePage = () => (
       <div className='menu-item'>
         <div className='content'>
           <div className='title'>MENS</div>
+          <span className='subtitle'>SHOP NOW</span>
+        </div>
+      </div>
+      <div className='menu-item'>
+        <div className='content'>
+          <div className='title'>SPORTS</div>
+          <span className='subtitle'>SHOP NOW</span>
+        </div>
+      </div>
+      <div className='menu-item'>
+        <div className='content'>
+          <div className='title'>HOME</div>
           <span className='subtitle'>SHOP NOW</span>
         </div>
       </div>
