@@ -15,7 +15,7 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 * Firebase  for server and database.
 * React: used create-react-app to set up the project.
 * Yarn (package manager)
-* JavaScript XML(JSX) to build out the components for the application in a modular fashion.
+* JavaScript and JSX to build out the components for the application in a modular fashion.
 * Redux (State management) 
 * React Router to set up routes.
 * Axios to communicate with the backend.
