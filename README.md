@@ -13,7 +13,7 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 
 ## Tech stack
 * Firebase  for server and database.
-* React: used create-react-app to set up the project.
+* React: used create-react-app to set up development environment.
 * Yarn (package manager)
 * JavaScript and JSX to build out the components for the application in a modular fashion.
 * Redux (State management) 
