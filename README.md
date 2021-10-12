@@ -30,5 +30,20 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 
 ## Pictures of Demo
 
+>Demo 1
+![Demo1](Pic1.JPG)
 
- 
+>Demo 2
+![Demo2](Pic2.JPG)
+
+>Demo 3
+![Demo3](Pic3.JPG)
+
+>Demo 4
+![Demo4](Pic4.JPG)
+
+>Demo 5
+![Demo5](Pic5.JPG)
+
+>Demo 6
+![Demo6](Pic6.JPG)
