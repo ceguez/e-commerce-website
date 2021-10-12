@@ -16,7 +16,7 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 
 **In Progress**
 
-* To enable managing data with GraphQL: will replacing Redux (current state management) with Apollo.
+* To enable managing data with GraphQL: will replace Redux (current state management) with Apollo.
 
 ## Tech stack
 * Firebase  for server and database.
