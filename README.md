@@ -19,7 +19,13 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 * To enable managing data with GraphQL: will replace Redux (current state management) with Apollo.
 
 ## Tech stack
+
+###Back-End
+
 * Firebase  for server and database.
+
+###Front-End
+
 * React: used create-react-app to set up development environment.
 * Yarn (package manager)
 * JavaScript and JSX to build out the components for the application in a modular fashion.
