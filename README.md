@@ -30,7 +30,7 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 * Stripe API to process online payments.
 * Deployed on Heroku (PaaS).
 
-## Pictures of Demo
+## Demo Pictures
 
 >Demo 1
 
