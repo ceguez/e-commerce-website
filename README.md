@@ -13,10 +13,9 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 
 ## Tech stack
 * Firebase  for server and database.
-* Create-react-app with the PWA (progressive web app) template which adds the service-worker.js file.
-  Note: This version of the prototype is not a PWA but it can be implemented in the future.
-* JavaScript XML(JSX) to build out the components for the application in a modular fashion.
+* React: used create-react-app to set up the project.
 * Yarn (package manager)
+* JavaScript XML(JSX) to build out the components for the application in a modular fashion.
 * Redux (State management) 
 * React Router to set up routes.
 * Axios to communicate with the backend.
