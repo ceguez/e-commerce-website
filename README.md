@@ -25,8 +25,7 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 
 ## Development In progress:
   - Replacing Redux (current state management) with Apollo to enable managing data with GraphQL.
-  - Integrating authentication/authorization using Spring Security and Jason Web Token.
-  - Defining requirements to source data from a third party database.
+  - Defining new requirements based on client's feedback.
 
 ## Pictures of Demo
 
