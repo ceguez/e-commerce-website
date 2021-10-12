@@ -22,3 +22,13 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 * Node-SASS to write robust and maintainable CSS.
 * Stripe API to process online payments.
 * Deployed on Heroku (PaaS).
+
+## Development In progress:
+  - Replacing Redux (current state management) with Apollo to enable managing data with GraphQL.
+  - Integrating authentication/authorization using Spring Security and Jason Web Token.
+  - Defining requirements to source data from a third party database.
+
+## Pictures of Demo
+
+
+ 
