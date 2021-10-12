@@ -3,7 +3,7 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 
 **Check out the prototype on heroku: https://triangle-ecommerce.herokuapp.com/**
 
-**Note:** Free trial for the Firebase database will expire soon so DB won't work. Furthermore, when committing to Github the config object from firebase exposed an API key. It is good practice not to expose the API key publicly. For this use case given the intended purpose of this public API key it is fine. The official prototype uses a different API key.
+**Note:** Free trial for the Firebase database will expire soon so DB won't work. Furthermore, when committing to Github the config object from firebase exposed an API key. It is good practice not to expose the API key publicly. Given the intended purpose of showcasing the code for this prototype, this does not present a security issue. The official prototype uses a different API key.
 
 ## Features
 * Users can create accounts.
