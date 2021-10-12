@@ -6,10 +6,17 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 **Note:** Free trial for the Firebase database will expire soon so DB won't work. Furthermore, when committing to Github the config object from firebase exposed an API key. It is good practice not to expose the API key publicly. Given the intended purpose of showcasing the code for this prototype, this does not present a security issue. The official prototype uses a different API key.
 
 ## Features
+
+**Completed**
+
 * Users can create accounts.
 * Users can login/logout into/from their accounts.
 * Users can add/delete/edit items to/from the shopping cart.
 * Users can checkout and make a payment with a credit card (curretnly on test credit card number).
+
+**In Progress**
+
+* To enable managing data with GraphQL: will replacing Redux (current state management) with Apollo.
 
 ## Tech stack
 * Firebase  for server and database.
@@ -22,9 +29,6 @@ This is a prototype for an e-commerce app. It integrates Firebase for the back-e
 * Node-SASS to write robust and maintainable CSS.
 * Stripe API to process online payments.
 * Deployed on Heroku (PaaS).
-
-## Development In progress
-  - Replacing Redux (current state management) with Apollo to enable managing data with GraphQL.
 
 ## Pictures of Demo
 
